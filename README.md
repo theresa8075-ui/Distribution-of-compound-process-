@@ -1,4 +1,4 @@
-# Distribution-of-compound-process-
+# Distribution of Compound Poisson process
 This repository consists of an R Shiny project that offers an opportunity to visualize and study an interactive compound Poisson process.The inter-arrival time of the events follows the exponential distribution and jump sizes associated with those events are also exponentially distributed. Users can modify the most important parameters of the model, such as the inter-arrival rate( λ) and the jump-size rate(β), and immediately see how these changes affect both the distribution and growth of the aggregate process S(t) over time. Using dynamic histograms and real-time computations, the Shiny app conveys an understanding of the sensitivity of S(t) with respect to different parameter settings. This becomes a powerful tool for learning, simulation, and stochastic process exploration.
 
 # Objectives of the project
